@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70164571-ee4d-4368-978b-3239a680c9df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Milchman/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Milchman/app/src/main/java/com/example/milchman/Order.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Milchman/app/src/main/java/com/example/milchman/OrdersList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Milchman/app/src/main/java/com/example/milchman/Table.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/.idea/AndroidStudio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/FatihASJCP" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/FatihASJCP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/MeditationUIYouTube" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/MeditationUIYouTube" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/compose-samples" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/compose-samples" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Milchman/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Milchman/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Milchman/app/src/main/java/com/example/milchman/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Milchman/app/src/main/java/com/example/milchman/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Milchman/app/src/main/java/com/example/milchman/ui/theme/Order.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Milchman/app/src/main/java/com/example/milchman/ui/theme/OrderList.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../composable-table" beforeDir="false" afterPath="$PROJECT_DIR$/../../composable-table" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/helloworld/src/helloworld/app.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dbA9ShceAbqkVPc9kTcqcDhl1C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/mfati/OneDrive/Cloud Files/code/Python/BeeWare",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70164571-ee4d-4368-978b-3239a680c9df" name="Changes" comment="" />
+      <created>1710266253742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710266253742</updated>
+      <workItem from="1710266257028" duration="998000" />
+      <workItem from="1710270040705" duration="113000" />
+      <workItem from="1710270169156" duration="75000" />
+      <workItem from="1710270260629" duration="23000" />
+      <workItem from="1710275743327" duration="2809000" />
+      <workItem from="1710331054977" duration="3332000" />
+      <workItem from="1710351796022" duration="2889000" />
+      <workItem from="1710410007393" duration="544000" />
+      <workItem from="1710410589932" duration="865000" />
+      <workItem from="1710411464292" duration="2435000" />
+      <workItem from="1710414491626" duration="241000" />
+      <workItem from="1710414746864" duration="158000" />
+      <workItem from="1710414919468" duration="579000" />
+      <workItem from="1710415502029" duration="1123000" />
+      <workItem from="1710422379674" duration="1732000" />
+      <workItem from="1710432930503" duration="1134000" />
+      <workItem from="1710434115837" duration="216000" />
+      <workItem from="1710434349566" duration="88000" />
+      <workItem from="1710434449077" duration="1332000" />
+      <workItem from="1710498239826" duration="1769000" />
+      <workItem from="1710598632206" duration="335000" />
+      <workItem from="1713513295116" duration="466000" />
+      <workItem from="1715108322573" duration="418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BeeWare$app.coverage" NAME="app Coverage Results" MODIFIED="1710434261006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/helloworld/src/helloworld" />
+  </component>
+</project>
