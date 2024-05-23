@@ -21,24 +21,6 @@
                 "focus": true
             }
         },
-        {
-            "label": "Run briefcase android",
-            "type": "shell",
-            "command": "briefcase dev",
-            "options": {
-                "cwd": "helloworld"
-            },  
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            },
-            "problemMatcher": [],
-            "presentation": {
-                "reveal": "always",
-                "panel": "shared",
-                "focus": true
-            }
-        }
     ]
 }
     
