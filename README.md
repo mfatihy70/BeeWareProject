@@ -1,2 +1,1 @@
-My BeWare Project
-This is a conflicting change from local
+This is my BeWare Project
